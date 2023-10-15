@@ -1,10 +1,3 @@
-# custom-ublock-filters
-My own ublock filters
-
-# README own filters
-
-Created: October 14, 2023 6:46 PM
-
 # Own custom filter for uBlock Origin
 
 Filters:
@@ -25,3 +18,5 @@ If you want to add them to your own uboclk filter:
 3. Go to “My Filters”
 4. Copy the content of “own-ublock-filters_2023-10-14_18.42.18.txt” file into the extension’s text editor
 5. Click on “Apply”
+
+Created: October 14, 2023 6:46 PM
